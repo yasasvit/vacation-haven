@@ -1,3 +1,7 @@
+# Vacation Haven 
+
+This project showcases a robust vacation rental system that offers an array of features for users to explore and book vacation accommodations. The application integrates advanced filtering options, favorites management, and an interactive map component for a comprehensive user experience.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
